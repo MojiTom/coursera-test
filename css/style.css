@@ -53,7 +53,6 @@ p {
 }
 
 /* Yaakov's Simple Responsive Design from Lesson 24 */
-/* NB: I removed the border, changed background-color to white, and added padding to give white spaces between all the boxes. */
 
 /* Large Devices */
 
@@ -61,8 +60,8 @@ p {
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
         float: left;
         position: relative;
-        padding: 8px;
         background-color: white;
+        padding: 8px;
     }
     .col-lg-1 {
         width: 8.33%;
@@ -109,8 +108,8 @@ p {
     .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
         float: left;
         position: relative;
-        padding: 8px;
         background-color: white;
+        padding: 8px;
     }
     .col-md-1 {
         width: 8.33%;
