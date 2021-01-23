@@ -26,14 +26,11 @@ h1 {
     margin: 15px;
 }
 
-h2 {
-    width: 100px;
+h2 { /* I took the width and positioning elements out of Yaakov's CSS for this. */
     margin-top: 0px;
-    position: absolute;
-    top: 0px;
-    right: 0px;
     text-align: center;
     border: 1px black solid;
+    clear: both;
 }
 
 .beef {
